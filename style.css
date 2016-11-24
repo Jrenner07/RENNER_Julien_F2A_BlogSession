@@ -1,0 +1,17 @@
+html
+{
+	background-color: lightgray;
+	text-align: center;
+}
+
+footer
+{
+	position:static;
+}
+
+div
+{
+	border-bottom: 1px dashed black;
+	margin-left: 25%;
+	margin-right: 25%;
+}
